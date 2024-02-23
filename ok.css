@@ -1,6 +1,8 @@
 .yeah {
   color: red;
+  display: inline-block;
 }
 .yeah:hover {
   color: blue;
+  cursor: pointer;
 }
