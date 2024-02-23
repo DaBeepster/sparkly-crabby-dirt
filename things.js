@@ -1,5 +1,5 @@
-function wow() {
-  var place = document.getElementById('nope');
-  var the = document.getElementById('am').value;
-  place.innerHTML = the;
+function why() {
+  var puh = prompt("ok");
+  var ehe = document.getElementById('stop');
+  ehe.innerText = btoa(puh);
 }
